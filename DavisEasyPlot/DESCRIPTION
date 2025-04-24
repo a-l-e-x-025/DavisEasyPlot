@@ -1,0 +1,18 @@
+Package: DavisEasyPlot
+Type: Package
+Title: EasyPlot
+Version: 0.0.0.9000
+Author: Alexandra Davis
+Maintainer: alexandradavis@usf.edu
+Description: Analyzes data, finds the outliers, and creats an easy to read plot to allow others to quickly identify these outliers. 
+License: CCo
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    ggplot2,
+    tidyr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.2

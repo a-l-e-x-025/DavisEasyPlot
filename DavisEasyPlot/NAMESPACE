@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+export(calculate_summary)
+export(detect_outliers)
+export(plot_with_stats)
